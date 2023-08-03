@@ -1,0 +1,3 @@
+The license for files in the `assets/` directory can be found in `ASSETS_LICENSE.txt`.
+
+The license for files in the `src/` directory can be found in `SRC_LICENSE.txt`.
